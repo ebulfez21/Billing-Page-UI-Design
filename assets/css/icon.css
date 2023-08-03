@@ -1,0 +1,35 @@
+.icon {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  float: left;
+}
+
+.icon1 {
+  background-image: url(../icon/icon1.svg);
+}
+.icon2 {
+  background-image: url(../icon/icon2.svg);
+}
+.icon3 {
+  background-image: url(../icon/icon3.svg);
+}
+.icon4 {
+  background-image: url(../icon/icon4.svg);
+}
+.icon5 {
+  background-image: url(../icon/icon5.svg);
+}
+.icon6 {
+  background-image: url(../icon/icon6.svg);
+}
+.visa {
+  background-image: url(../icon/visa.svg);
+  width: 67px;
+  height: 38px;
+}

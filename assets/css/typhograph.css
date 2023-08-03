@@ -1,0 +1,117 @@
+.flex {
+  display: flex;
+}
+.al-ce {
+  align-items: center;
+}
+.al-fs {
+  align-items: flex-start;
+}
+.ju-ce {
+  justify-content: center;
+}
+
+.ju-sa {
+  justify-content: space-around;
+}
+.ju-row {
+  justify-content: row;
+}
+.ju-sb {
+  justify-content: space-between;
+}
+
+.fd-co {
+  flex-direction: column;
+}
+.fd-row {
+  flex-direction: row;
+}
+.p-a{
+position: absolute;
+}
+.p-r{
+    position: relative;
+}
+.fw-400 {
+  font-weight: 400;
+}
+.fw-500 {
+  font-weight: 500;
+}
+.fw-700 {
+  font-weight: 700;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+.fs-16 {
+  font-size: 16px;
+}
+.fs-24 {
+  font-size: 24px;
+}
+.fs-32 {
+  font-size: 32px;
+}
+
+.fs-n {
+  font-style: normal;
+}
+.lh-n {
+  line-height: normal;
+}
+.fs-lh {
+  font-style: normal;
+  line-height: normal;
+}
+.color-w {
+  color: #fff;
+}
+.color-g {
+  color: #62618f;
+}
+.color-x {
+  color: #62618f;
+}
+.color-z {
+  color: #1a194d;
+}
+.color-r {
+  color: #ee4d38;
+}
+.gap4{
+    gap:4px ;
+}
+.gap10{
+    gap: 10px;
+}
+.gap14{
+    gap:14px ;
+}
+.gap16{
+    gap:16px ;
+}
+.gap114{
+    gap:114px ;
+}
+.gap168{
+    gap:168px ;
+}
+.bg-w{
+    background: #fff;
+}
+.bg-r{
+    background: #ee4d38;
+}
+.bg-c-r{
+    background-color: #c24c4c;
+}
+.bg-c-w{
+  background-color: #e5e5f0;
+  
+}
+.bg--w{
+    background:#e8e8fd ;
+}
