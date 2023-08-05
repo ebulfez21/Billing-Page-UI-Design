@@ -67,7 +67,7 @@
   height: 40px;
 }
 .order-history {
-  width: 130px;
+  width: 102px;
   height: 48px;
   margin: 65px auto 49px 72px;
 }
@@ -75,6 +75,9 @@
   margin-top: 49px;
   width: 315px;
   height: 49px;
+}
+.order-history-info p{
+  width: auto;
 }
 .content-section {
   width: 100%;
