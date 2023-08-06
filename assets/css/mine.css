@@ -77,7 +77,7 @@
   width: 315px;
   height: 49px;
 }
-.order-history-info p{
+.order-history-info:nth-child(2) {
   width: 320px;
 }
 .content-section {
