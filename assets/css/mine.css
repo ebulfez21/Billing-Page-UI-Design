@@ -134,3 +134,9 @@
   width: 384px;
   height: 24px;
 }
+.payment-detail div{
+padding: 10px;
+border-radius: 6px;
+border: 1px solid #CBCBD9;
+background: #FFF;
+}
